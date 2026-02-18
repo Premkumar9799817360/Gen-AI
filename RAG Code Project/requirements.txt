@@ -1,0 +1,10 @@
+llama-index
+langchain
+python-dotenv
+langchain-core 
+langchain-community
+numpy
+sentence-transformers
+langchain_text_splitters
+langchain-core
+
