@@ -1,0 +1,12 @@
+groq
+langchain
+ollama
+chromadb
+sentence-transformers
+yt-dlp 
+openai-whisper
+python-dotenv
+gradio
+opencv-python 
+pytesseract
+dotenv
