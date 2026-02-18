@@ -1,0 +1,14 @@
+langchain 
+langchain-core 
+langchain-community
+ipykernel
+ddgs
+chromadb
+langchain-groq
+python-dotenv
+langgraph-checkpoint-postgres
+psycopg[binary]
+langchain-mcp-adapters
+fastmcp
+fastmcp[tasks]
+langgraph-cli[inmem]
